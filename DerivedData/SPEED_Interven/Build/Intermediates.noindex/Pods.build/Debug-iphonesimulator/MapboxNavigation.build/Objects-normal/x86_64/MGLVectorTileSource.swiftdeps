@@ -1,0 +1,401 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So19MGLVectorTileSourceC", ""]
+- ["So19MGLVectorTileSourceC", "isMapboxStreets"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- !private "=="
+- "Bool"
+- !private "BooleanLiteralType"
+- "MGLVectorTileSource"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["Sa", "contains"]
+- !private ["s23BidirectionalCollectionP", "components"]
+- !private ["s23BidirectionalCollectionP", "contains"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s7CVarArgP", "components"]
+- !private ["s7CVarArgP", "configurationURL"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s10CollectionP", "components"]
+- !private ["s10CollectionP", "contains"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "components"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "components"]
+- !private ["s28CustomDebugStringConvertibleP", "configurationURL"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "host"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "scheme"]
+- !private ["s29CustomPlaygroundQuickLookableP", "components"]
+- !private ["s29CustomPlaygroundQuickLookableP", "host"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "scheme"]
+- !private ["s17CustomReflectableP", "components"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "components"]
+- !private ["s23CustomStringConvertibleP", "configurationURL"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "host"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "scheme"]
+- !private ["s9DecodableP", "components"]
+- !private ["s9DecodableP", "contains"]
+- !private ["s9DecodableP", "host"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "scheme"]
+- !private ["s9EncodableP", "components"]
+- !private ["s9EncodableP", "contains"]
+- !private ["s9EncodableP", "host"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "scheme"]
+- !private ["s9EquatableP", "components"]
+- !private ["s9EquatableP", "configurationURL"]
+- !private ["s9EquatableP", "host"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "scheme"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "components"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "components"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "components"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "components"]
+- !private ["s8HashableP", "configurationURL"]
+- !private ["s8HashableP", "host"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "scheme"]
+- !private ["s25LosslessStringConvertibleP", "components"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- ["So9MGLSourceC", "Bool"]
+- !private ["So9MGLSourceC", "configurationURL"]
+- ["So9MGLSourceC", "isMapboxStreets"]
+- ["So13MGLTileSourceC", "Bool"]
+- !private ["So13MGLTileSourceC", "configurationURL"]
+- ["So13MGLTileSourceC", "isMapboxStreets"]
+- ["So19MGLVectorTileSourceC", "Bool"]
+- !private ["So19MGLVectorTileSourceC", "configurationURL"]
+- ["So19MGLVectorTileSourceC", "isMapboxStreets"]
+- !private ["s10MirrorPathP", "components"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "contains"]
+- !private ["So8NSCodingP", "components"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "components"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "components"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "components"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "components"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "components"]
+- !private ["So8NSObjectC", "configurationURL"]
+- ["So8NSObjectC", "isMapboxStreets"]
+- !private ["So16NSObjectProtocolP", "components"]
+- !private ["So16NSObjectProtocolP", "configurationURL"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So14NSSecureCodingP", "components"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "components"]
+- !private ["So8NSStringC", "init"]
+- !private ["s22RandomAccessCollectionP", "contains"]
+- !private ["s26RangeReplaceableCollectionP", "components"]
+- !private ["s26RangeReplaceableCollectionP", "contains"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "host"]
+- !private ["10Foundation20ReferenceConvertibleP", "scheme"]
+- !private ["s8SequenceP", "components"]
+- !private ["s8SequenceP", "contains"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "components"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "components"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "components"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "components"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["10Foundation3URLV", "host"]
+- !private ["10Foundation3URLV", "scheme"]
+- !private ["s14_ArrayProtocolP", "contains"]
+- !private ["s23_BidirectionalIndexableP", "components"]
+- !private ["s23_BidirectionalIndexableP", "contains"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "contains"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "components"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "components"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "components"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "components"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "host"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "scheme"]
+- !private ["s33_ExpressibleByStringInterpolationP", "components"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "components"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "components"]
+- !private ["s10_IndexableP", "contains"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "components"]
+- !private ["s14_IndexableBaseP", "contains"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "components"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configurationURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s17_MutableIndexableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "components"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "host"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "scheme"]
+- !private ["s22_RandomAccessIndexableP", "contains"]
+- !private ["s26_RangeReplaceableIndexableP", "components"]
+- !private ["s26_RangeReplaceableIndexableP", "contains"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "components"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- "So9MGLSourceC"
+- "So13MGLTileSourceC"
+- "So19MGLVectorTileSourceC"
+- !private "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "10Foundation3URLV"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/Polyline/Polyline.framework/Modules/Polyline.swiftmodule/x86_64.swiftmodule"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/Turf/Turf.framework/Modules/Turf.swiftmodule/x86_64.swiftmodule"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/MapboxSpeech/MapboxSpeech.framework/Modules/MapboxSpeech.swiftmodule/x86_64.swiftmodule"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/MapboxCoreNavigation/MapboxCoreNavigation.framework/Modules/MapboxCoreNavigation.swiftmodule/x86_64.swiftmodule"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/Solar/Solar.framework/Modules/Solar.swiftmodule/x86_64.swiftmodule"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/MapboxDirections.swift/MapboxDirections.framework/Modules/MapboxDirections.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/NSData+MMEGZIP.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/Polyline/Polyline-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/Turf/Turf-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/MapboxSpeech/MapboxSpeech-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/MapboxCoreNavigation/MapboxCoreNavigation-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/MapboxNavigation/MapboxNavigation-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/Solar/Solar-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/MapboxMobileEvents/MapboxMobileEvents-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/MapboxDirections.swift/MapboxDirections.swift-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMapCamera.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMECommonEventData.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEventsService.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLSource.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLRasterDEMSource.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLImageSource.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLTileSource.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLRasterTileSource.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLVectorTileSource.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLShapeSource.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLComputedShapeSource.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLAnnotationImage.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLOfflineStorage.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Pinning/TSKSPKIHashCache.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLStyle.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Polyline/Polyline/Polyline.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLPolyline.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLShape.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLFeature.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMapViewDelegate.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKPinningValidator_Private.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxDirections.swift/MapboxDirections/MBAttribute.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLStyleValue.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Turf/Sources/Turf/Turf.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKTrustKitConfig.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKLog.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxSpeech/MapboxSpeech/MapboxSpeech.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLOfflinePack.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKPinningValidatorCallback.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Pinning/TSKPublicKeyAlgorithm.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLPolygon.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLOfflineRegion.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLTilePyramidOfflineRegion.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKTrustDecision.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxDirections.swift/MapboxDirections/MBLaneIndication.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLUserLocation.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLFoundation.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEUINavigation.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxCoreNavigation/MapboxCoreNavigation/MapboxCoreNavigation.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxNavigation/MapboxNavigation/MapboxNavigation.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEventsConfiguration.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/parse_configuration.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLAnnotation.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLPointAnnotation.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLShapeCollection.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLPointCollection.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCameraChangeReason.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLAttributionInfo.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMECategoryLoader.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMELocationManager.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMETimerManager.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEventsManager.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLAccountManager.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEDependencyManager.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEventLogger.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Pinning/ssl_pin_verifier.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEUniqueIdentifier.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Reporting/vendor_identifier.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxNavigation/MapboxNavigation/MBRouteVoiceController.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxCoreNavigation/MapboxCoreNavigation/MBRouteController.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEventLogReportViewController.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMENSDateWrapper.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMENSURLSessionWrapper.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEUIApplicationWrapper.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMETrustKitWrapper.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Reporting/TSKReportsRateLimiter.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Reporting/TSKBackgroundReporter.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLDistanceFormatter.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCoordinateFormatter.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLClockDirectionFormatter.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCompassDirectionFormatter.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMapSnapshotter.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLOpenGLStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLForegroundStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLBackgroundStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLHillshadeStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCircleStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLLineStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLFillStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLSymbolStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLFillExtrusionStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLHeatmapStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLRasterStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLVectorStyleLayer.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKPinningValidator.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMETypes.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLTypes.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxDirections.swift/MapboxDirections/MBRoadClasses.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxCoreNavigation/MapboxCoreNavigation/MBNavigationSettings.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Reporting/reporting_utils.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/configuration_utils.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxDirections.swift/MapboxDirections/MapboxDirections.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMapView+IBAdditions.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/NSPredicate+MGLAdditions.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/NSValue+MGLAdditions.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/NSExpression+MGLAdditions.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxNavigation/MapboxNavigation/MGLMapView+MGLNavigationAdditions.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxDirections.swift/MapboxDirections/MBRouteOptions.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEConstants.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/CLLocation+MMEMobileEvents.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MapboxMobileEvents.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/Polyline/Polyline.framework/Headers/Polyline-Swift.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/Turf/Turf.framework/Headers/Turf-Swift.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/MapboxSpeech/MapboxSpeech.framework/Headers/MapboxSpeech-Swift.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/MapboxCoreNavigation/MapboxCoreNavigation.framework/Headers/MapboxCoreNavigation-Swift.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/Solar/Solar.framework/Headers/Solar-Swift.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/MapboxDirections.swift/MapboxDirections.framework/Headers/MapboxDirections-Swift.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLLight.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TrustKit.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKPinningValidatorResult.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEAPIClient.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEvent.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMultiPoint.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Reporting/TSKPinFailureReport.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLAnnotationView.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLUserLocationAnnotationView.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMapView.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCalloutView.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/Mapbox.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLOverlay.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLGeometry.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/Reachability/MMEReachability.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MapboxNavigation.build/unextended-module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Polyline.build/module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Turf.build/module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MapboxSpeech.build/module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MapboxCoreNavigation.build/module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Solar.build/module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MapboxMobileEvents.build/module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MapboxDirections.swift.build/module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "d2e500a859edf5dd15bd9fe943096234"

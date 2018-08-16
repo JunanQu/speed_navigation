@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "2e56ded19d6ac956df65a0a0732f717e"
+build_time: [1532111035, 695630000]
+inputs:
+  "/Users/junanqu/Desktop/SPEED_Interven/Pods/Solar/Solar/Solar.swift": [1532102087, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "681e64c9f84c484916ee8d8293f985d2"
+build_time: [1532111036, 233106000]
+inputs:
+  "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxSpeech/MapboxSpeech/MapboxSpeech.swift": [1532102087, 0]
+  "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxSpeech/MapboxSpeech/MBSpeechOptions.swift": [1532102087, 0]

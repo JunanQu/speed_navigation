@@ -1,0 +1,585 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NavigationSettings"
+provides-nominal:
+- "20MapboxCoreNavigation0C8SettingsC"
+provides-member:
+- ["So14NSNotificationC4NameV", ""]
+- ["20MapboxCoreNavigation0C8SettingsC", ""]
+- ["So14NSNotificationC4NameV", "navigationSettingsDidChange"]
+provides-dynamic-lookup:
+- "distanceUnit"
+- "observeValue"
+- "voiceMuted"
+- "voiceVolume"
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "+"
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- !private "Dictionary"
+- "Float"
+- "LengthFormatter"
+- "Locale"
+- "Mirror"
+- "NSKeyValueChangeKey"
+- "NSObject"
+- "NavigationSettings"
+- "Notification"
+- !private "NotificationCenter"
+- "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- "UnsafeMutableRawPointer"
+- !private "UserDefaults"
+depends-member:
+- !private ["s13AnyCollectionV", "filter"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "prefixed"]
+- ["Sb", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "Locale"]
+- !private ["s7CVarArgP", "Mirror"]
+- ["s7CVarArgP", "NavigationSettings"]
+- !private ["s7CVarArgP", "NotificationCenter"]
+- ["s7CVarArgP", "Unit"]
+- !private ["s7CVarArgP", "UserDefaults"]
+- !private ["s7CVarArgP", "addObserver"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "distanceUnit"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "object"]
+- !private ["s7CVarArgP", "observeValue"]
+- !private ["s7CVarArgP", "post"]
+- !private ["s7CVarArgP", "prefixed"]
+- !private ["s7CVarArgP", "properties"]
+- !private ["s7CVarArgP", "removeObserver"]
+- !private ["s7CVarArgP", "set"]
+- !private ["s7CVarArgP", "setValue"]
+- !private ["s7CVarArgP", "standard"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "value"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "filter"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "prefixed"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "newKey"]
+- !private ["s10ComparableP", "prefixed"]
+- ["s28CustomDebugStringConvertibleP", "Locale"]
+- !private ["s28CustomDebugStringConvertibleP", "Mirror"]
+- ["s28CustomDebugStringConvertibleP", "NavigationSettings"]
+- !private ["s28CustomDebugStringConvertibleP", "NotificationCenter"]
+- ["s28CustomDebugStringConvertibleP", "Unit"]
+- !private ["s28CustomDebugStringConvertibleP", "UserDefaults"]
+- !private ["s28CustomDebugStringConvertibleP", "addObserver"]
+- ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "distanceUnit"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "object"]
+- !private ["s28CustomDebugStringConvertibleP", "observeValue"]
+- !private ["s28CustomDebugStringConvertibleP", "post"]
+- !private ["s28CustomDebugStringConvertibleP", "prefixed"]
+- !private ["s28CustomDebugStringConvertibleP", "properties"]
+- !private ["s28CustomDebugStringConvertibleP", "removeObserver"]
+- !private ["s28CustomDebugStringConvertibleP", "set"]
+- !private ["s28CustomDebugStringConvertibleP", "setValue"]
+- !private ["s28CustomDebugStringConvertibleP", "standard"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "usesMetric"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "prefixed"]
+- ["s17CustomReflectableP", "Child"]
+- ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "children"]
+- ["s17CustomReflectableP", "current"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "prefixed"]
+- !private ["s17CustomReflectableP", "subscript"]
+- ["s17CustomReflectableP", "usesMetric"]
+- ["s23CustomStringConvertibleP", "Child"]
+- ["s23CustomStringConvertibleP", "Locale"]
+- !private ["s23CustomStringConvertibleP", "Mirror"]
+- ["s23CustomStringConvertibleP", "NavigationSettings"]
+- !private ["s23CustomStringConvertibleP", "NotificationCenter"]
+- ["s23CustomStringConvertibleP", "Unit"]
+- !private ["s23CustomStringConvertibleP", "UserDefaults"]
+- ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addObserver"]
+- !private ["s23CustomStringConvertibleP", "children"]
+- ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "distanceUnit"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "object"]
+- !private ["s23CustomStringConvertibleP", "observeValue"]
+- !private ["s23CustomStringConvertibleP", "post"]
+- !private ["s23CustomStringConvertibleP", "prefixed"]
+- !private ["s23CustomStringConvertibleP", "properties"]
+- !private ["s23CustomStringConvertibleP", "removeObserver"]
+- !private ["s23CustomStringConvertibleP", "set"]
+- !private ["s23CustomStringConvertibleP", "setValue"]
+- !private ["s23CustomStringConvertibleP", "standard"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- ["s23CustomStringConvertibleP", "usesMetric"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s9DecodableP", "_getBuiltinLogicValue"]
+- ["s9DecodableP", "current"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "prefixed"]
+- !private ["s9DecodableP", "subscript"]
+- ["s9DecodableP", "usesMetric"]
+- !private ["s10DictionaryV", "subscript"]
+- ["s9EncodableP", "_getBuiltinLogicValue"]
+- ["s9EncodableP", "current"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "prefixed"]
+- !private ["s9EncodableP", "subscript"]
+- ["s9EncodableP", "usesMetric"]
+- ["s9EquatableP", "Locale"]
+- ["s9EquatableP", "MBNavigationSettingsDidChange"]
+- !private ["s9EquatableP", "Mirror"]
+- ["s9EquatableP", "NavigationSettings"]
+- !private ["s9EquatableP", "NotificationCenter"]
+- ["s9EquatableP", "Unit"]
+- !private ["s9EquatableP", "UserDefaults"]
+- ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addObserver"]
+- ["s9EquatableP", "current"]
+- !private ["s9EquatableP", "default"]
+- !private ["s9EquatableP", "distanceUnit"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "kilometer"]
+- ["s9EquatableP", "mile"]
+- !private ["s9EquatableP", "navigationSettingsDidChange"]
+- !private ["s9EquatableP", "new"]
+- !private ["s9EquatableP", "newKey"]
+- !private ["s9EquatableP", "object"]
+- !private ["s9EquatableP", "observeValue"]
+- !private ["s9EquatableP", "post"]
+- !private ["s9EquatableP", "prefixed"]
+- !private ["s9EquatableP", "properties"]
+- !private ["s9EquatableP", "removeObserver"]
+- !private ["s9EquatableP", "set"]
+- !private ["s9EquatableP", "setValue"]
+- !private ["s9EquatableP", "standard"]
+- ["s9EquatableP", "usesMetric"]
+- !private ["s9EquatableP", "value"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "new"]
+- ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "prefixed"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "prefixed"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "prefixed"]
+- ["So9FormatterC", "Unit"]
+- ["s8HashableP", "Locale"]
+- ["s8HashableP", "MBNavigationSettingsDidChange"]
+- !private ["s8HashableP", "Mirror"]
+- ["s8HashableP", "NavigationSettings"]
+- !private ["s8HashableP", "NotificationCenter"]
+- ["s8HashableP", "Unit"]
+- !private ["s8HashableP", "UserDefaults"]
+- ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addObserver"]
+- ["s8HashableP", "current"]
+- !private ["s8HashableP", "default"]
+- !private ["s8HashableP", "distanceUnit"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "kilometer"]
+- ["s8HashableP", "mile"]
+- !private ["s8HashableP", "navigationSettingsDidChange"]
+- !private ["s8HashableP", "newKey"]
+- !private ["s8HashableP", "object"]
+- !private ["s8HashableP", "observeValue"]
+- !private ["s8HashableP", "post"]
+- !private ["s8HashableP", "prefixed"]
+- !private ["s8HashableP", "properties"]
+- !private ["s8HashableP", "removeObserver"]
+- !private ["s8HashableP", "set"]
+- !private ["s8HashableP", "setValue"]
+- !private ["s8HashableP", "standard"]
+- ["s8HashableP", "usesMetric"]
+- !private ["s8HashableP", "value"]
+- ["s8HashableP", ""]
+- !private ["s10DictionaryV5IndexV", "newKey"]
+- ["So15LengthFormatterC", "Unit"]
+- ["10Foundation6LocaleV", "current"]
+- ["10Foundation6LocaleV", "usesMetric"]
+- ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "prefixed"]
+- ["s6MirrorV", "Child"]
+- !private ["s6MirrorV", "children"]
+- !private ["s6MirrorV", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "prefixed"]
+- ["So8NSCodingP", "Unit"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "prefixed"]
+- ["So9NSCopyingP", "Unit"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "prefixed"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "prefixed"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "prefixed"]
+- !private ["SC19NSKeyValueChangeKeyV", "newKey"]
+- !private ["SC26NSKeyValueObservingOptionsV", "new"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "prefixed"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "Float"]
+- ["So8NSObjectC", "LengthFormatter"]
+- ["So8NSObjectC", "Locale"]
+- ["So8NSObjectC", "Mirror"]
+- ["So8NSObjectC", "NSKeyValueChangeKey"]
+- ["So8NSObjectC", "NavigationSettings"]
+- !private ["So8NSObjectC", "NotificationCenter"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "Unit"]
+- ["So8NSObjectC", "UnsafeMutableRawPointer"]
+- !private ["So8NSObjectC", "UserDefaults"]
+- !private ["So8NSObjectC", "addObserver"]
+- !private ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "distanceUnit"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "object"]
+- ["So8NSObjectC", "observeValue"]
+- !private ["So8NSObjectC", "post"]
+- !private ["So8NSObjectC", "prefixed"]
+- ["So8NSObjectC", "properties"]
+- ["So8NSObjectC", "properties.storage"]
+- !private ["So8NSObjectC", "removeObserver"]
+- !private ["So8NSObjectC", "set"]
+- !private ["So8NSObjectC", "setValue"]
+- ["So8NSObjectC", "shared"]
+- !private ["So8NSObjectC", "standard"]
+- ["So8NSObjectC", "usesMetric"]
+- !private ["So8NSObjectC", "value"]
+- ["So8NSObjectC", "voiceMuted"]
+- ["So8NSObjectC", "voiceVolume"]
+- ["So8NSObjectC", ""]
+- ["So16NSObjectProtocolP", "Locale"]
+- !private ["So16NSObjectProtocolP", "Mirror"]
+- ["So16NSObjectProtocolP", "NavigationSettings"]
+- !private ["So16NSObjectProtocolP", "NotificationCenter"]
+- ["So16NSObjectProtocolP", "Unit"]
+- !private ["So16NSObjectProtocolP", "UserDefaults"]
+- !private ["So16NSObjectProtocolP", "addObserver"]
+- !private ["So16NSObjectProtocolP", "default"]
+- !private ["So16NSObjectProtocolP", "distanceUnit"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "object"]
+- !private ["So16NSObjectProtocolP", "observeValue"]
+- !private ["So16NSObjectProtocolP", "post"]
+- !private ["So16NSObjectProtocolP", "prefixed"]
+- !private ["So16NSObjectProtocolP", "properties"]
+- !private ["So16NSObjectProtocolP", "removeObserver"]
+- !private ["So16NSObjectProtocolP", "set"]
+- !private ["So16NSObjectProtocolP", "setValue"]
+- !private ["So16NSObjectProtocolP", "standard"]
+- !private ["So16NSObjectProtocolP", "value"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "prefixed"]
+- !private ["So8NSStringC", "init"]
+- !private ["So8NSStringC", "prefixed"]
+- ["So14NSNotificationC4NameV", "MBNavigationSettingsDidChange"]
+- ["So14NSNotificationC4NameV", "navigationSettingsDidChange"]
+- ["20MapboxCoreNavigation0C8SettingsC", "Bool"]
+- ["20MapboxCoreNavigation0C8SettingsC", "Float"]
+- ["20MapboxCoreNavigation0C8SettingsC", "LengthFormatter"]
+- ["20MapboxCoreNavigation0C8SettingsC", "Locale"]
+- ["20MapboxCoreNavigation0C8SettingsC", "Mirror"]
+- ["20MapboxCoreNavigation0C8SettingsC", "NSKeyValueChangeKey"]
+- ["20MapboxCoreNavigation0C8SettingsC", "NavigationSettings"]
+- !private ["20MapboxCoreNavigation0C8SettingsC", "NotificationCenter"]
+- ["20MapboxCoreNavigation0C8SettingsC", "String"]
+- ["20MapboxCoreNavigation0C8SettingsC", "UnsafeMutableRawPointer"]
+- !private ["20MapboxCoreNavigation0C8SettingsC", "UserDefaults"]
+- !private ["20MapboxCoreNavigation0C8SettingsC", "addObserver"]
+- ["20MapboxCoreNavigation0C8SettingsC", "deinit"]
+- ["20MapboxCoreNavigation0C8SettingsC", "distanceUnit"]
+- ["20MapboxCoreNavigation0C8SettingsC", "init"]
+- ["20MapboxCoreNavigation0C8SettingsC", "observeValue"]
+- ["20MapboxCoreNavigation0C8SettingsC", "properties"]
+- !private ["20MapboxCoreNavigation0C8SettingsC", "properties.storage"]
+- !private ["20MapboxCoreNavigation0C8SettingsC", "removeObserver"]
+- !private ["20MapboxCoreNavigation0C8SettingsC", "setValue"]
+- ["20MapboxCoreNavigation0C8SettingsC", "shared"]
+- ["20MapboxCoreNavigation0C8SettingsC", "usesMetric"]
+- !private ["20MapboxCoreNavigation0C8SettingsC", "value"]
+- ["20MapboxCoreNavigation0C8SettingsC", "voiceMuted"]
+- ["20MapboxCoreNavigation0C8SettingsC", "voiceVolume"]
+- ["10Foundation12NotificationV", "Name"]
+- !private ["So18NotificationCenterC", "default"]
+- !private ["So18NotificationCenterC", "post"]
+- !private ["s9OptionSetP", "new"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "prefixed"]
+- ["s16RawRepresentableP", "MBNavigationSettingsDidChange"]
+- ["s16RawRepresentableP", "kilometer"]
+- ["s16RawRepresentableP", "mile"]
+- !private ["s16RawRepresentableP", "navigationSettingsDidChange"]
+- !private ["s16RawRepresentableP", "new"]
+- !private ["s16RawRepresentableP", "newKey"]
+- ["10Foundation20ReferenceConvertibleP", "current"]
+- ["10Foundation20ReferenceConvertibleP", "usesMetric"]
+- !private ["s8SequenceP", "filter"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "prefixed"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s10SetAlgebraP", "new"]
+- ["SS", "String"]
+- !private ["SS", "init"]
+- !private ["SS", "prefixed"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s14StringProtocolP", "prefixed"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "prefixed"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "prefixed"]
+- ["So15LengthFormatterC4UnitO", "kilometer"]
+- ["So15LengthFormatterC4UnitO", "mile"]
+- !private ["So12UserDefaultsC", "object"]
+- !private ["So12UserDefaultsC", "set"]
+- !private ["So12UserDefaultsC", "standard"]
+- !private ["s22_AnyCollectionProtocolP", "filter"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "prefixed"]
+- ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "prefixed"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "prefixed"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "prefixed"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "prefixed"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "prefixed"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "prefixed"]
+- !private ["s10_IndexableP", "filter"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "prefixed"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "filter"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "prefixed"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Locale"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Mirror"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "NavigationSettings"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NotificationCenter"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Unit"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UserDefaults"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addObserver"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "distanceUnit"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "object"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "observeValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "post"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "prefixed"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "properties"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeObserver"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "set"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "standard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["s21_ObjectiveCBridgeableP", "MBNavigationSettingsDidChange"]
+- ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "current"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "navigationSettingsDidChange"]
+- !private ["s21_ObjectiveCBridgeableP", "newKey"]
+- !private ["s21_ObjectiveCBridgeableP", "prefixed"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- ["s21_ObjectiveCBridgeableP", "usesMetric"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "prefixed"]
+- ["s20_SwiftNewtypeWrapperP", "MBNavigationSettingsDidChange"]
+- !private ["s20_SwiftNewtypeWrapperP", "navigationSettingsDidChange"]
+- !private ["s20_SwiftNewtypeWrapperP", "newKey"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "prefixed"]
+depends-nominal:
+- !private "s13AnyCollectionV"
+- !private "s23BidirectionalCollectionP"
+- "Sb"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "So9FormatterC"
+- "s8HashableP"
+- !private "s10DictionaryV5IndexV"
+- "So15LengthFormatterC"
+- "10Foundation6LocaleV"
+- "s25LosslessStringConvertibleP"
+- "s6MirrorV"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "SC19NSKeyValueChangeKeyV"
+- !private "SC26NSKeyValueObservingOptionsV"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "So14NSNotificationC4NameV"
+- "20MapboxCoreNavigation0C8SettingsC"
+- "10Foundation12NotificationV"
+- !private "So18NotificationCenterC"
+- !private "s9OptionSetP"
+- !private "s26RangeReplaceableCollectionP"
+- "s16RawRepresentableP"
+- "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "s10SetAlgebraP"
+- "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So15LengthFormatterC4UnitO"
+- !private "So12UserDefaultsC"
+- !private "s22_AnyCollectionProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- "s20_SwiftNewtypeWrapperP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/Polyline/Polyline.framework/Modules/Polyline.swiftmodule/x86_64.swiftmodule"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/Turf/Turf.framework/Modules/Turf.swiftmodule/x86_64.swiftmodule"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/MapboxDirections.swift/MapboxDirections.framework/Modules/MapboxDirections.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/NSData+MMEGZIP.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/Polyline/Polyline-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/Turf/Turf-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/MapboxCoreNavigation/MapboxCoreNavigation-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/MapboxMobileEvents/MapboxMobileEvents-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Target Support Files/MapboxDirections.swift/MapboxDirections.swift-umbrella.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMECommonEventData.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEventsService.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Pinning/TSKSPKIHashCache.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Polyline/Polyline/Polyline.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKPinningValidator_Private.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxDirections.swift/MapboxDirections/MBAttribute.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/Turf/Sources/Turf/Turf.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKTrustKitConfig.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKLog.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKPinningValidatorCallback.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Pinning/TSKPublicKeyAlgorithm.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKTrustDecision.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxDirections.swift/MapboxDirections/MBLaneIndication.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEUINavigation.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxCoreNavigation/MapboxCoreNavigation/MapboxCoreNavigation.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEventsConfiguration.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/parse_configuration.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMECategoryLoader.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMELocationManager.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMETimerManager.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEventsManager.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEDependencyManager.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEventLogger.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Pinning/ssl_pin_verifier.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEUniqueIdentifier.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Reporting/vendor_identifier.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxCoreNavigation/MapboxCoreNavigation/MBRouteController.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEventLogReportViewController.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMENSDateWrapper.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMENSURLSessionWrapper.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEUIApplicationWrapper.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMETrustKitWrapper.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Reporting/TSKReportsRateLimiter.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Reporting/TSKBackgroundReporter.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKPinningValidator.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMETypes.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxDirections.swift/MapboxDirections/MBRoadClasses.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxCoreNavigation/MapboxCoreNavigation/MBNavigationSettings.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Reporting/reporting_utils.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/configuration_utils.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxDirections.swift/MapboxDirections/MapboxDirections.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxDirections.swift/MapboxDirections/MBRouteOptions.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEConstants.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/CLLocation+MMEMobileEvents.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MapboxMobileEvents.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/Polyline/Polyline.framework/Headers/Polyline-Swift.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/Turf/Turf.framework/Headers/Turf-Swift.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/MapboxDirections.swift/MapboxDirections.framework/Headers/MapboxDirections-Swift.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TrustKit.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/TSKPinningValidatorResult.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEAPIClient.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/MMEEvent.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/vendor/TrustKit/Reporting/TSKPinFailureReport.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/Pods/MapboxMobileEvents/MapboxMobileEvents/Reachability/MMEReachability.h"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MapboxCoreNavigation.build/unextended-module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Polyline.build/module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Turf.build/module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MapboxMobileEvents.build/module.modulemap"
+- "/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MapboxDirections.swift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "968f8ba6bdae58939a30e0bd1da07f90"

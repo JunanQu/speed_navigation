@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "1b07f7a8bd2f1ee5c0001f06f00433d2"
+build_time: [1532111028, 950577000]
+inputs:
+  "/Users/junanqu/Desktop/SPEED_Interven/Pods/Polyline/Polyline/Polyline.swift": [1532102087, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "e9a25040775d0e6283006907eb8615cd"
+build_time: [1532111035, 5907000]
+inputs:
+  "/Users/junanqu/Desktop/SPEED_Interven/Pods/Turf/Sources/Turf/CoreLocation.swift": [1531943045, 0]
+  "/Users/junanqu/Desktop/SPEED_Interven/Pods/Turf/Sources/Turf/Turf.swift": [1531943045, 0]

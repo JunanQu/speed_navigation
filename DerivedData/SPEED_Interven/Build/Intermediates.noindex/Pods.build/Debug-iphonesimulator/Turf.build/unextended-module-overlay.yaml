@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Products/Debug-iphonesimulator/Turf/Turf.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/junanqu/Desktop/SPEED_Interven/DerivedData/SPEED_Interven/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Turf.build/unextended-module.modulemap',
+    }]
+  }]
+}

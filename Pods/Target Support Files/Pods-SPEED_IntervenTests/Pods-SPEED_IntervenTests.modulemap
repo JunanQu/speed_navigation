@@ -1,0 +1,6 @@
+framework module Pods_SPEED_IntervenTests {
+  umbrella header "Pods-SPEED_IntervenTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
